@@ -22,7 +22,7 @@ Data-driven Product Marketer with 10+ years of experience marketing B2C and B2B2
 
 ## 👋 About Me
 
-Product Marketing Manager with 10+ years of experience across EdTech, travel, fintech, and marketplace businesses, in both B2C and B2B2C models spanning markets across Europe, the US, and Asia. I've led activation and retention strategy, repositioned websites for conversion, built personas and go-to-market plans across dozens of markets, launched new markets from scratch, and reported directly to Boards and investors.
+Product Marketing Manager with 10+ years of experience across EdTech, TravelTech, FinTech, and marketplace businesses, in both B2C and B2B2C models spanning markets across Europe, the US, and Asia. 
 
 ---
 
