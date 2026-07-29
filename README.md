@@ -46,13 +46,28 @@ Product Marketing Manager with 10+ years of experience across EdTech, TravelTech
 
 ---
 
-## 📂 Featured Projects
+## 🗂️ Featured Projects
 
-| Project | Description | Link |
-|---|---|---|
-| 🎯 **<Project Name>** | <One-line description> | [View Repo](https://github.com/OlallaMR/<repo-name>) |
-| 🤖 **<Project Name>** | <One-line description> | [View Repo](https://github.com/OlallaMR/<repo-name>) |
+- 📊 **PMM Market Intelligence Agent**
+  Autonomous n8n + GPT-4o-mini agent that researches a company from a URL and auto-generates a market research deck, sales email, and ICP one-pager. [View Repo](https://github.com/OlallaMR/Week-5_Market-Intelligence)
 
+- 📉 **Chleo — Churn Detection & CS Intervention**
+  ML-powered churn prediction (ROC-AUC 0.97) with an AI agent that triggers automated, personalised customer success interventions and an executive dashboard. [View Repo](https://github.com/OlallaMR/Churn-detector---Forecast-with-Customer-Success-Intervention)
+
+- 📈 **Statistical Analysis of Marketing Channels**
+  Hypothesis testing (t-tests, Fisher's exact, Bonferroni/FDR correction) and power analysis on 200K rows of marketing campaign data. [View Repo](https://github.com/OlallaMR/Day-4_In-God-We-Trustm-Everyone-Else-Bring-the-Data)
+
+- 🛍️ **SilverTrust — AI Transformation Consulting**
+  End-to-end AI consulting project for a streetwear e-commerce client: discovery, solution design, GDPR/EU AI Act compliance, LangSmith monitoring, and a working MVP. [View Repo](https://github.com/OlallaMR/Week-7---SilverTRust)
+
+- 🛡️ **GDPR Self-Audit — AI Agent**
+  First-pass GDPR compliance assessment of my own AI agent, flagging DPA, lawful basis, and DPIA gaps before deployment. [View Repo](https://github.com/OlallaMR/Audit-your-own-project-GDPR-Lense)
+
+- 🔍 **EU AI Act Peer Audit**
+  Independent compliance audit of a teammate's KAM supply intelligence agent, covering risk classification and EU AI Act findings. [View Repo](https://github.com/OlallaMR/Lab-Audit-Teammate-Dilia)
+
+- 🎙️ **RAG Chunking Strategies Lab**
+  Compares fixed-size, recursive, and token-based chunking on a transcribed podcast and a PDF, for a RAG pipeline. [View Repo](https://github.com/OlallaMR/Day-5_Chunk-Podcast-and-PDF)
 ---
 
 ## 🌍 Languages
