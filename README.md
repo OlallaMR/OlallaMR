@@ -76,5 +76,4 @@ Spanish (Native) · Galician (Native) · English (C2) · German (B2)
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/olallamurciego)
-✉️ olalla.murciego@gmail.com
 ```
