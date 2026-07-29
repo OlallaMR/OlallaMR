@@ -20,26 +20,9 @@ Data-driven Product Marketer with 10+ years of experience marketing B2C and B2B2
 
 ---
 
-## 💼 Work Experience
+## 👋 About Me
 
-**Product Marketing Manager — Babbel (Lesson Nine GmbH)** | EdTech Languages, B2C2B (Germany, US, Italy, Spain, France) | 2022-2025
-Led Market & Competitive Intelligence, Opportunity Assessment and Market Fit validation shaping yearly strategy OKRs, product growth and go-to-market strategy. Drove activation and retention through a freemium offer that increased purchase likelihood by 100x.
-
-**Digital Marketing Analyst — MEININGER Hotels** | Ecommerce Tourism, B2C, 30 International Markets | 2019-2021
-Designed and delivered reports for Marketing, Revenue, Hotels Management and the Board (C-Levels and Investors). Built personas for 30 hotels and led brand sentiment analysis supporting Meininger's website redesign. Managed external agencies, contributing €500-700 in recurring monthly savings.
-
-**Product Marketing Manager — Amboss GmbH** | EdTech Medicine, B2C (Germany, US) | 2019
-Repositioned the US website based on market intelligence and CRO best practices, leading to a +10% increase in homepage conversion and a +30% CTR uplift on Facebook landing pages.
-
-**International Business Development Manager — Ethan Partners** | Executive Recruiting, B2B (Malaysia, UK, Portugal, Hong Kong) | 2014-2016
-Generated and qualified 2,500+ senior executive leads from top-tier Consulting and Blue-Chip companies with a 60% response rate; 400+ candidates advanced to clients. Trained 20+ consultants in Portugal and Malaysia on marketing best practices.
-
-**Marketing Business Development Manager — Rocket Internet SE (Lendico GmbH, acquired by ING Diba)** | FinTech, B2C2B (Germany, Spain) | 2013-2014
-Conducted market research and competitive intelligence across Spain and the DACH region. Owned the go-to-market launch for Spain, leading Product Marketing, Globalisation and Content Strategy.
-
-**Country Manager Spain — Rocket Internet SE (Pinspire GmbH)** | Marketplace, B2C (Germany, Spain, LATAM) | 2011-2012
-
-**Product Marketing Trainee — Digital360 GmbH (OneModelPlace Llc Marketplace)** | B2C Marketplace (US, EMEA, LATAM, Philippines) | 2012-2013
+Product Marketing Manager with 10+ years of experience across EdTech, travel, fintech, and marketplace businesses, in both B2C and B2B2C models spanning markets across Europe, the US, and Asia. I've led activation and retention strategy, repositioned websites for conversion, built personas and go-to-market plans across dozens of markets, launched new markets from scratch, and reported directly to Boards and investors.
 
 ---
 
