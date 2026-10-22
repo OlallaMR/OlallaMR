@@ -41,7 +41,7 @@ I turn customer, market, and competitive insights into growth opportunities, com
 - 🎙️ **RAG Chunking Strategies Lab**
   Compares fixed-size, recursive, and token-based chunking on a transcribed podcast and a PDF, for a RAG pipeline. [View Repo](https://github.com/OlallaMR/Day-5_Chunk-Podcast-and-PDF)
 
----
+
 
 ## 🏆 Certifications
 
@@ -54,14 +54,13 @@ I turn customer, market, and competitive insights into growth opportunities, com
 - 🎨 **UX/UI Designer Certification** — Ironhack Germany (2020-2021)
   UX Research · Usability Testing · Design Thinking · Wireframing · Prototyping · Figma
 
----
 
 ## 🎓 Education
 
 - **MBA**, WHU - Otto Beisheim School of Management (2025-Present)
 - **B.A. & M.A. in Sworn Translation and Interpreting**, Alfonso X El Sabio, Madrid
 
----
+
 
 ## 🌍 Languages
 Spanish (Native) · Galician (Native) · English (C2) · German (B2)
