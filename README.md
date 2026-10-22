@@ -1,7 +1,8 @@
 # Hi, I'm Olalla 👋
 ## Product Marketing Strategy | AI Consulting & Integration | MBA Candidate at WHU
 **📍 Berlin, Germany<br>
-Data-driven Product Marketer with 10+ years of experience marketing B2C and B2B2C products across EMEA, SEA and the US. I turn customer, market, and competitive insights into growth opportunities, compelling narratives, and successful product launches.**
+Data-driven Product Marketer with 10+ years of experience marketing B2C and B2B2C products across EMEA, SEA and the US. 
+I turn customer, market, and competitive insights into growth opportunities, compelling narratives, and successful product launches.**
 
 🎓 MBA Candidate at WHU - Otto Beisheim School of Management<br>
 🤖 Certified in AI Consulting & Integration <br>
