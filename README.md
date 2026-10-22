@@ -16,7 +16,6 @@ Data-driven Product Marketer with 10+ years of experience marketing B2C and B2B2
 ## 🤖 AI & Technical
 `Agentic AI & Agent Creation` `LLMs & RAG` `AI Content Generation` `Business Process Automation` `Python & APIs` `EU AI Compliance` `HTML/CSS` `JavaScript (Beginner)`
 
----
 
 ## 🗂️ Featured AI Projects
 
